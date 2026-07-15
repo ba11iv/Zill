@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+  <meta charset="UTF-8">
+  <title>Link Analysis Test</title>
+</head>
+
+<body>
+
+<h2>🔗 تحليل الروابط</h2>
+
+<input
+  id="urlInput"
+  type="text"
+  placeholder="https://example.com"
+  style="width:400px;"
+>
+
+<button onclick="analyzeLink()">
+تحليل الرابط
+</button>
+
+<pre id="result"></pre>
+
+<script>
+
+async function analyzeLink(){
+
+    const url = document.getElementById("urlInput").value;
+
+    const response = await fetch("http://localhost:3000/analyze-link",{
+
+        method:"POST",
+
+        headers:{
+            "Content-Type":"application/json"
+        },
+
+        body:JSON.stringify({
+            url:url
+        })
+
+    });
+
+    const data = await response.json();
+
+    document.getElementById("result").textContent =
+    JSON.stringify(data,null,2);
+
+}
+
+</script>
+
+</body>
+</html>

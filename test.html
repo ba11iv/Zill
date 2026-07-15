@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <title>Zill Screenshot Test</title>
+</head>
+<body>
+
+<h2>اختبار تحليل Screenshot</h2>
+
+<input type="file" id="image">
+
+<button onclick="uploadImage()">
+تحليل الصورة
+</button>
+
+<pre id="result"></pre>
+
+<script>
+
+async function uploadImage(){
+
+    const file = document.getElementById("image").files[0];
+
+    if(!file){
+        alert("اختر صورة أولاً");
+        return;
+    }
+
+    const formData = new FormData();
+
+    formData.append("image", file);
+
+    const response = await fetch("http://localhost:3000/analyze-screenshot",{
+        method:"POST",
+        body:formData
+    });
+
+    const result = await response.json();
+
+    document.getElementById("result").textContent =
+        JSON.stringify(result,null,2);
+
+}
+
+</script>
+
+</body>
+</html>
