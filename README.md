@@ -369,16 +369,6 @@ Every recommendation presented to the user is generated through multiple securit
 
 ---
 
-# Project Objectives
-
-Zill was developed with four primary objectives:
-
-- Protect users before financial fraud occurs.
-- Increase cybersecurity awareness.
-- Deliver explainable AI recommendations.
-- Preserve user privacy throughout every interaction.
-
----
 
 # Future Vision
 
