@@ -258,5 +258,223 @@ Security should never come at the expense of user trust.
 - GitHub
 - Lovable
 - Render
+- # Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React, TypeScript |
+| Backend | Node.js, Express.js |
+| Artificial Intelligence | Google Gemini AI |
+| Threat Intelligence | WHOIS API |
+| Styling | Tailwind CSS |
+| Development Tools | VS Code, GitHub, Lovable |
+| Deployment | Render |
+
+---
+
+# Repository Structure
+
+```
+Zill/
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   └── ...
+│
+├── backend/
+│   ├── routes/
+│   ├── services/
+│   ├── package.json
+│   ├── index.js
+│   └── ...
+│
+└── README.md
+```
+
+---
+
+# Getting Started
+
+## Clone the Repository
+
+```bash
+git clone https://github.com/ba11iv/Zill.git
+```
+
+---
+
+## Frontend
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+---
+
+## Backend
+
+```bash
+cd backend
+npm install
+npm start
+```
+
+---
+
+# How Zill Works
+
+The platform follows a proactive fraud prevention workflow.
+
+```
+User Input
+
+↓
+
+Validation
+
+↓
+
+AI Analysis (Gemini)
+
+↓
+
+WHOIS Intelligence
+
+↓
+
+Behavioral Analysis
+
+↓
+
+Risk Assessment
+
+↓
+
+Explainable Recommendation
+
+↓
+
+User Protection
+```
+
+Every recommendation presented to the user is generated through multiple security indicators rather than relying on a single detection method.
+
+---
+
+# Project Objectives
+
+Zill was developed with four primary objectives:
+
+- Protect users before financial fraud occurs.
+- Increase cybersecurity awareness.
+- Deliver explainable AI recommendations.
+- Preserve user privacy throughout every interaction.
+
+---
+
+# Future Vision
+
+The long-term vision of Zill extends beyond fraud detection.
+
+Future development will focus on:
+
+- Expanding fraud detection capabilities across additional attack scenarios.
+- Improving behavioral intelligence using anonymized behavioral datasets.
+- Enhancing AI explanations to provide more personalized recommendations.
+- Collaborating with financial institutions to strengthen proactive fraud prevention.
+
+---
+
+# Future Roadmap
+
+### Phase 1
+
+- Expand fraud detection scenarios.
+- Improve AI recommendation quality.
+- Refine user experience.
+
+### Phase 2
+
+- Conduct user validation and usability testing.
+- Enhance behavioral intelligence.
+- Prepare the platform for wider deployment.
+
+---
+
+# Innovation
+
+Unlike traditional security tools, Zill combines several intelligent protection layers into a unified platform.
+
+Its primary innovations include:
+
+- Proactive fraud prevention.
+- Digital Financial Twin.
+- Explainable AI.
+- Multi-layer fraud analysis.
+- Privacy-first architecture.
+
+These components work together to provide users with clear, understandable, and actionable protection before financial fraud occurs.
+
+---
+
+# Privacy & Security
+
+Privacy is central to Zill's design philosophy.
+
+The platform only processes information intentionally submitted by users.
+
+Zill does not:
+
+- Access user conversations automatically.
+- Monitor personal activity in the background.
+- Collect unnecessary personal information.
+
+Instead, users remain fully in control of the information they choose to analyze.
+
+---
+
+# Built For
+
+AMAD Hackathon 2026
+
+Developed as an AI-powered financial fraud prevention platform focused on protecting individuals before they become victims of digital financial scams.
+
+---
+
+# Project Status
+
+Current Version
+
+Prototype (Hackathon Release)
+
+Current Capabilities
+
+- AI-powered Link Analysis
+- Screenshot Analysis
+- Intelligent Message Analysis
+- Digital Financial Twin Demonstration
+- Explainable AI Recommendations
+
+---
+
+# License
+
+This project was developed exclusively for AMAD Hackathon 2026.
+
+---
+
+<div align="center">
+
+# Zill
+
+### Protect Before It Happens.
+
+Building a safer digital financial experience through Artificial Intelligence, behavioral intelligence, and explainable cybersecurity.
+
+</div>
 
 ---
