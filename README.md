@@ -259,7 +259,10 @@ Security should never come at the expense of user trust.
 - GitHub
 - Lovable
 - Render
-- # Technology Stack
+  
+---
+
+# Technology Stack
 
 | Category | Technologies |
 |----------|--------------|
