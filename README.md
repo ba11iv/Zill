@@ -42,6 +42,15 @@ It is an AI-powered financial protection platform that focuses on **prevention r
 
 Instead of offering a single security feature, Zill provides multiple intelligent protection layers working together inside one unified platform.
 
+## At a Glance
+
+| Project | Zill |
+|----------|------|
+| Category | Financial Fraud Prevention |
+| AI Model | Google Gemini |
+| Platform | Web Application |
+| Target Users | Individuals |
+| Built For | AMAD Hackathon 2026 |
 ---
 
 # The Problem
