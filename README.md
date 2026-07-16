@@ -10,6 +10,8 @@ AI-Powered • Privacy-First • Explainable AI • Digital Financial Twin
 
 </div>
 
+---
+
 # Table of Contents
 
 - Overview
