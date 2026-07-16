@@ -49,7 +49,18 @@ Rather than simply warning users after an attack begins, Zill empowers them to m
 | Platform | Web Application |
 | Target Users | Individuals |
 | Built For | AMAD Hackathon 2026 |
+
 ---
+
+# Core Modules
+
+- AI Link Analysis
+- Screenshot Analysis
+- Intelligent Message Analysis
+- Digital Financial Twin
+- Explainable AI
+ 
+--- 
 
 # The Problem
 
@@ -284,15 +295,16 @@ Zill/
 ├── frontend/
 │   ├── src/
 │   ├── public/
+│   ├── components/
 │   ├── package.json
-│   └── ...
+│   └── vite.config.ts
 │
 ├── backend/
 │   ├── routes/
 │   ├── services/
-│   ├── package.json
 │   ├── index.js
-│   └── ...
+│   ├── package.json
+│   └── .env.example
 │
 └── README.md
 ```
@@ -358,11 +370,20 @@ Risk Assessment
 
 ↓
 
+User Notification
+
+↓
+
+Protection
+
+↓
+
 Explainable Recommendation
 
 ↓
 
 User Protection
+
 ```
 
 Every recommendation presented to the user is generated through multiple security indicators rather than relying on a single detection method.
@@ -413,6 +434,7 @@ Its primary innovations include:
 
 These components work together to provide users with clear, understandable, and actionable protection before financial fraud occurs.
 
+ Zill combines multiple intelligent protection layers into a single proactive financial security platform, enabling users to detect fraud before financial loss occurs.
 ---
 
 # Privacy & Security
@@ -444,7 +466,9 @@ Developed as an AI-powered financial fraud prevention platform focused on protec
 
 # Zill
 
-### Protect Before It Happens.
+### Protecting People.
+### Preventing Fraud.
+### Preserving Trust.
 
 Building a safer digital financial experience through Artificial Intelligence, behavioral intelligence, and explainable cybersecurity.
 
