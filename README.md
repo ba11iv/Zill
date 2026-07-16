@@ -2,19 +2,13 @@
 
 # Zill
 
-### Your AI Guardian Against Financial Fraud
+### Financial Fraud Prevention Platform
 
-An AI-powered proactive financial protection platform designed to detect and prevent financial fraud before it happens while preserving user privacy.
+AI-Powered • Privacy-First • Explainable AI • Digital Financial Twin
 
 **Developed for AMAD Hackathon 2026**
 
----
-
-*"Because financial protection should happen before fraud—not after it."*
-
 </div>
-
----
 
 # Table of Contents
 
