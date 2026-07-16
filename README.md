@@ -445,27 +445,6 @@ Developed as an AI-powered financial fraud prevention platform focused on protec
 
 ---
 
-# Project Status
-
-Current Version
-
-Prototype (Hackathon Release)
-
-Current Capabilities
-
-- AI-powered Link Analysis
-- Screenshot Analysis
-- Intelligent Message Analysis
-- Digital Financial Twin Demonstration
-- Explainable AI Recommendations
-
----
-
-# License
-
-This project was developed exclusively for AMAD Hackathon 2026.
-
----
 
 <div align="center">
 
