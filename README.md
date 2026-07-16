@@ -379,7 +379,7 @@ Future development will focus on:
 - Expanding fraud detection capabilities across additional attack scenarios.
 - Improving behavioral intelligence using anonymized behavioral datasets.
 - Enhancing AI explanations to provide more personalized recommendations.
-- Collaborating with financial institutions to strengthen proactive fraud prevention.
+- Expanding intelligent fraud detection capabilities across additional financial scenarios.
 
 ---
 
