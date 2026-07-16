@@ -138,9 +138,7 @@ Instead of monitoring users continuously, the platform models normal financial b
 
 Whenever new activity significantly differs from the expected behavioral profile, Zill increases the calculated risk score and recommends additional verification before completing the transaction.
 
-The current version demonstrates this concept through realistic behavioral simulation to illustrate how proactive behavioral protection can reduce financial fraud.
-
----
+The Digital Financial Twin evaluates behavioral indicators such as transaction patterns, trusted devices, locations, and beneficiaries to identify unusual activities and strengthen proactive fraud prevention.
 
 ## Explainable AI
 
