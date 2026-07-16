@@ -1,4 +1,4 @@
-# Zill Backend
+# Zill
 
 A TypeScript-based backend service for the Zill platform, providing intelligent financial protection and management features.
 
