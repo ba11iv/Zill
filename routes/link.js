@@ -2,7 +2,7 @@ const express = require("express");
 
 const router = express.Router();
 
-const { analyzeLink } = require("../services/linkService");
+const { analyzeLink } = require("../services/linkservice");
 
 router.post("/", async (req, res) => {
 
