@@ -385,13 +385,13 @@ Future development will focus on:
 
 # Future Roadmap
 
-### Phase 1
+ ### Short-Term Goals
 
 - Expand fraud detection scenarios.
 - Improve AI recommendation quality.
 - Refine user experience.
 
-### Phase 2
+### Long-Term Goals
 
 - Conduct user validation and usability testing.
 - Enhance behavioral intelligence.
