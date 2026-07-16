@@ -32,15 +32,13 @@ AI-Powered • Privacy-First • Explainable AI • Digital Financial Twin
 
 # Overview
 
-Financial fraud is evolving faster than ever. Attackers no longer rely only on fake websites—they exploit social engineering, phishing links, impersonation, fraudulent messages, and abnormal financial behavior to deceive users.
+Financial fraud is no longer limited to fake websites or phishing emails. Modern attacks exploit social engineering, fraudulent messages, malicious links, and abnormal financial behavior, making them increasingly difficult for individuals to recognize.
 
-Traditional security solutions usually react after an attack has already started.
+**Zill** is an AI-powered financial fraud prevention platform that helps users detect and prevent financial fraud before it happens.
 
-**Zill** takes a different approach.
+By combining Artificial Intelligence, domain intelligence, behavioral analysis, and explainable security recommendations, Zill provides multiple layers of proactive protection within a single platform.
 
-It is an AI-powered financial protection platform that focuses on **prevention rather than reaction**. By combining artificial intelligence, behavioral intelligence, and explainable security analysis, Zill helps users identify suspicious activity before financial fraud occurs.
-
-Instead of offering a single security feature, Zill provides multiple intelligent protection layers working together inside one unified platform.
+Rather than simply warning users after an attack begins, Zill empowers them to make informed decisions before becoming victims of fraud.
 
 ## At a Glance
 
