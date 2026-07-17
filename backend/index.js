@@ -4,6 +4,8 @@ require("dotenv").config();
 
 const screenshotRoute = require("./routes/screenshot");
 const linkRoute = require("./routes/link");
+const financialTwinRoute = require("./routes/financialTwin");
+const messageRoute = require("./routes/message");
 
 const app = express();
 
@@ -23,3 +25,4 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
+
