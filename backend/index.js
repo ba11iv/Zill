@@ -4,7 +4,6 @@ require("dotenv").config();
 
 const screenshotRoute = require("./routes/screenshot");
 const linkRoute = require("./routes/link");
-const financialTwinRoute = require("./routes/financialTwin");
 const messageRoute = require("./routes/message");
 
 const app = express();
@@ -19,6 +18,7 @@ app.use(express.static("."));
 
 app.use("/analyze-screenshot", screenshotRoute);
 app.use("/analyze-link", linkRoute);
+app.use("/analyze-message", messageRoute);
 
 const PORT = process.env.PORT || 3000;
 
